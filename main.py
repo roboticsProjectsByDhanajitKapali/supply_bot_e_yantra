@@ -1,7 +1,5 @@
 '''
-*Team Id : 5071
 * Author List : Dhanajit kapali, Shubham kumar , Pankaj masiwal , Ritik verma
-* (Comma separated e.g. Name1, Name2)>
 * Filename: task5-main.py
 * Theme: Supply bot
 * Functions: circle_detection , check_node_aruco , check_node_circle , angle_calculate , detect_Aruco , mark_Aruco , calculate_Robot_State 
