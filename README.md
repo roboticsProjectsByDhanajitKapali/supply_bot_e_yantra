@@ -8,5 +8,5 @@
 
 **The bot here is moving autonomously on the white line and is recieving the coordinates of the colored coins on the arena(depicting supplies) from the camera attached at the ceiling wirelessly , after reaching the exact coordinates the bot detects the coin and then the mechanical arm of the bot srikes the coin placing it in the correct positons (i.e. except the green and the blue colored portion).**
 
-## Final preview
+## Final View
 ![supply_bot](https://user-images.githubusercontent.com/37000235/93028113-5c42d100-f62f-11ea-9f65-018622878549.gif)
